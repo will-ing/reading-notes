@@ -4,6 +4,21 @@
 
 # HTML Chapter 1: “Structure” (pp.12-39)
 
+name|description| example
+---- | ---- | ----
+tags | act like containers. They tell you something about the information that lies between their opening and closing tags.| <p> </p>
+Attributes | 
+
+
+# HTML Chapter 8: “Extra Markup” (p.176-199)
+
+
+
+# HTML Chapter 17: “HTML5 Layout” (pp.428-451)
+
+
+# HTML Chapter 18: “Process & Design” (pp.452-475
+
 ## Thing to think about
 1. who is your site for?
 
@@ -78,12 +93,3 @@ Web Use|
 > Wireframe - is a simple sketch of the key information that goes on each page. Shows the hierarchy and how much space it needs.
 
  ~*Don't include color scheme, font choices, backgrounds or images for the website*~
-
-# HTML Chapter 8: “Extra Markup” (p.176-199)
-
-
-
-# HTML Chapter 17: “HTML5 Layout” (pp.428-451)
-
-
-# HTML Chapter 18: “Process & Design” (pp.452-475
