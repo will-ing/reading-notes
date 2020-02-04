@@ -140,6 +140,7 @@ keyword| Description
 # Chapter 4: “Decisions and Loops” only up to the section on switch statements (pp.145-162)
 
 ## Operators
+
 keyword| Description
 ---- | ---- 
 ==| is equal to
@@ -163,6 +164,7 @@ keyword| Description
 ![loops](/images/loops.png)
 
 ### Loops
+
 types| Description| Example
 ---- | ---- | ----
 For| If you need to run a code a specific number of times. Often used to loop thought the items in an array| for ( i = 0; i > 10; i++){document.write(i)}
@@ -172,6 +174,7 @@ Do while| Key difference: it will always run the statements inside the curly bra
 ![For loops](images/for-loops.png)
 
 ### Loop counters
+
 types| Description
 ---- | ---- 
 Initialization| Create a variable and set it to 0. This variable is commonly called i, and it acts as the counter; var i =0;
