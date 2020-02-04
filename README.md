@@ -7,7 +7,7 @@
 number| reading assignment
 ---- | ----
 Read: 01 | [Introductory HTML and JavaScript](https://will-ing.github.io/reading-notes/class-01)
-2 | 
+Read: 02 | [HTML Text, CSS Introduction, and Basic JavaScript Instructions](https://will-ing.github.io/reading-notes/class-02)
 3 |
 4 | 
 5 |
