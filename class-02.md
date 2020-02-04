@@ -101,6 +101,7 @@ comparison operators|Compare two values and return true or false| = 3 > 5; *pg 1
 Logical operators| Combine expressions and return true or false| buy = (5 > 3) && (2 < 4); *pg 156*
 
 ### Arithmetic operators *pg 76*
+
 Type| Description| Example
 ---- | ---- | ----
 Addition|| +
@@ -121,6 +122,7 @@ Example:
 > Mainly used for personalized messages
 
 ### Assignment, Comparison and Logical Operators
+
 keyword| Description
 ---- | ---- 
 ==| is equal to
@@ -141,7 +143,7 @@ keyword| Description
 
 ## Operators
 
-keyword| Description
+keyword | Description
 ---- | ---- 
 ==| is equal to
 !=| is not equal to
@@ -165,7 +167,7 @@ keyword| Description
 
 ### Loops
 
-types| Description| Example
+types | Description | Example
 ---- | ---- | ----
 For| If you need to run a code a specific number of times. Often used to loop thought the items in an array| for ( i = 0; i > 10; i++){document.write(i)}
 While| If you do not know how many times the code should run. 
