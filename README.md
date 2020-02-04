@@ -6,7 +6,7 @@
 
 number| reading assignment
 ---- | ----
-1 | 
+Read: 01 | [Introductory HTML and JavaScript](https://will-ing.github.io/reading-notes/class-01)
 2 | 
 3 |
 4 | 

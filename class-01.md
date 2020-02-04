@@ -163,3 +163,5 @@ Assignment operator| Remember that everything to the right of the equals sign is
 Camel case| upper case that follows the word. js does not use spaces in var
 Concatenating| link (things) together in a chain or series
 floats| Decimal numbers
+
+[Main Page](https://will-ing.github.io/reading-notes)
