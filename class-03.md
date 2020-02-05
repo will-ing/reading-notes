@@ -49,6 +49,8 @@ For| If you need to run a code a specific number of times. Often used to loop th
 While| If you do not know how many times the code should run. 
 Do while| Key difference: it will always run the statements inside the curly braces at least once, even if the condition evaluates to false
 
+
+
 ![For loops](images/for-loops.png)
 
 ### Loop counters
@@ -67,13 +69,6 @@ Consider three points:
 * **Performance issues** - can make the page slower. Can get an infinite loop.
 
 for loop example:
-\<script type="text/javascript">
-		var students = new Array("John", "Ann", "Aaron", "Edwin", "Elizabeth");
-		document.write("<b>Using for loops </b><br />");
-		**for** (i=0;i<students.length;i++)
-		{
-		document.write(students[i] + "<br />");
-		}
-	</script>
+![For example](images/forex.png)
   
 [Main Page](https://will-ing.github.io/reading-notes)
