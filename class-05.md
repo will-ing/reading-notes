@@ -56,6 +56,22 @@ Opacity | Your can use `rgba` or `hsla` to control the opacity. | `rgba(0,0,0,.5
 
 Type| Description| Example
 ---- | ---- | ----
+font-family | Helps you specify the typeface that should be used. | 
+font-size | specify the size for the font. |
+@font- face | allows you to use a font even though it's not in your computer.
+Font-weight | create `bold` text
+font-style | create `italic` text
+text-transform | change to `uppercase` or `lowercase`
+text-decoration | if you want to `underline`, `overline`, `line-through` and `blink`
+line-height | vertical space between text
+text-align | the alignment of text. `left`, `right`, `center`, `justify` (takes up the full line)
+vertical-align | commonly used with inline elements. 
+text-indent| allows you to indent the text.
+text-shadow | creates a drop shadow
+:first-letter | a pseudo element at the end of the selector to customize the first letter.
+:hover | when a user hovers over an element
+:active | when an element is being activated by a user
+:focus | When you have already interacted with the link
 
 
 
