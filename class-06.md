@@ -63,4 +63,10 @@ querySelector  | Uses css selector syntax that would select one or more elements
 Type| Description| Example
 ---- | ---- | ----
 getElementsByClassName | Select one or more elements given the value of their class attribute.
-getElementsBy
+getElementsByTagName | Selects all element on the page with the specific tag name
+querySelectorAll | Uses css selector syntax to select one or more elements and returns all of those that match
+
+
+**Looping through a node list**
+
+![loop node list](images/loopnodelist.jpg)
