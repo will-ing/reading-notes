@@ -70,3 +70,20 @@ querySelectorAll | Uses css selector syntax to select one or more elements and r
 **Looping through a node list**
 
 ![loop node list](images/loopnodelist.jpg)
+
+### Removing an element via DOM manipulation
+
+1. Store the element to be removed in a variable
+2. Store the parent of that element in a variable
+3. Remove the element from its containing element
+
+![removing Element](images/removingele.jpg)
+
+### Comparing techniques updating HTML content
+
+Type| Description| Example
+---- | ---- | ----
+document.write() | Method to add content that was not in the original source code to the page but its use is rarely advised.
+element.innerHTML | Property lets you get/ update the entire content of any element as a string.
+
+>Cross-site scripting attacks (or XSS) can happen when you add HTML to a page using innerHTML. Involves attacker placing malicious code in to a site.
