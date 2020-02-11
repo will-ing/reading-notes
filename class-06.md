@@ -89,3 +89,5 @@ document.write() | Method to add content that was not in the original source cod
 element.innerHTML | Property lets you get/ update the entire content of any element as a string.
 
 >Cross-site scripting attacks (or XSS) can happen when you add HTML to a page using innerHTML. Involves attacker placing malicious code in to a site.
+
+[Main Page](https://will-ing.github.io/reading-notes)

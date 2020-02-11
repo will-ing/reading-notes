@@ -155,3 +155,5 @@ Math.random() | Generates a random number between 0
 **Date Objects**
 
 ![date objects](images/dateobj.jpg)
+
+[Main Page](https://will-ing.github.io/reading-notes)
