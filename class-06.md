@@ -14,6 +14,8 @@ If understanding the problem domain is the hardest part of programming and you w
 
 >An **Object** groups together a set of variables and functions to create a model of something you would recognize from the real world. In a object, variables and functions take on new names.
 
+>A **method** can reference its own object property using **'this'**.
+
 Type| Description| Example
 ---- | ---- | ----
 Property | Tell us about the object. They are the variables
