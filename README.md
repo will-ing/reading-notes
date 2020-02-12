@@ -13,7 +13,7 @@ Read: 04 | [HTML Links, CSS Layout, JS Functions](https://will-ing.github.io/rea
 Read: 05 | [HTML Images; CSS Color & Text](https://will-ing.github.io/reading-notes/class-05)
 Read: 06 | [JS Object Literals; The DOM](https://will-ing.github.io/reading-notes/class-06)
 Read: 07 | [HTML Tables; JS Constructor Functions](https://will-ing.github.io/reading-notes/class-07)
-8 | 
+Read: 08 | [More CSS Layout](https://will-ing.github.io/reading-notes/class-08)
 9 | 
 10 |
 11 | 
