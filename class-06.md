@@ -22,7 +22,7 @@ Property | Tell us about the object. They are the variables
 Method | Represents task that are associated with the object. They are the function.
 Literal Notations | Easiest and most popular way to create objects.
 
-``` 
+``` js
 var hotel = {
   name: 'Quay',
   rooms: 40,

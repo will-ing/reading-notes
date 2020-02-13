@@ -43,7 +43,7 @@ var corgiFall = new epicFailVideos(4, true)
 
 >The new keyword and the object constructor create a blank object. You can then add properties and methods to the object.
 
-```
+```js
 var hotel = new Object();
 
 hotel.name= 'quay';
@@ -56,14 +56,14 @@ hotel.checkAvailability = function() {
 ```
 >To update values of properties, use dot notation or square brackets. They work on objects created. To delete properties use `delete` keyword;
 
-```
+```js
 hotel.name = 'park'; //changes property
 delete hotel.name; // deletes property
 ```
 
 >you can use `functions` to create `objects`.
 
-```
+```js
 function hotel(name,rooms, booked){
   this.name = name; // properties
   this.rooms = rooms;
@@ -76,7 +76,7 @@ function hotel(name,rooms, booked){
 ```
 > You can use the `new` keyword to followed by a function to created a new object
 
-```
+```js
 var quayHotel = new hotel("quay', 40, 25);
 ```
 
