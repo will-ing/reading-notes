@@ -36,6 +36,7 @@ Dropdown list box
   <option value="third">third</option>
 </select>
 ```
+
  types | Description | Example
 ---- | ---- | ----
 file input box | allows user to upload a file | `type="file"`
