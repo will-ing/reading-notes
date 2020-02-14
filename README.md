@@ -15,7 +15,7 @@ Read: 06 | [JS Object Literals; The DOM](https://will-ing.github.io/reading-note
 Read: 07 | [HTML Tables; JS Constructor Functions](https://will-ing.github.io/reading-notes/class-07)
 Read: 08 | [More CSS Layout](https://will-ing.github.io/reading-notes/class-08)
 Read: 09 | [Forms and Events](https://will-ing.github.io/reading-notes/class-09)
-10 |
+Read: 10 | [JS Debugging](https://will-ing.github.io/reading-notes/class-10)
 11 | 
 12 | 
 13 |
