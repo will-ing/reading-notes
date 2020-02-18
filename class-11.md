@@ -1,6 +1,7 @@
 # Assorted Topics
 
 # Chapter 16: “Images” (pp.406-427)
+
 Property | Descriptions
 ---- | ----
 background-image | Allows you to place an image behind any HTML element.
