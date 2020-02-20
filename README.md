@@ -19,6 +19,6 @@ Read: 10 | [JS Debugging](https://will-ing.github.io/reading-notes/class-10)
 Read: 11 | [Assorted Topics](https://will-ing.github.io/reading-notes/class-11)
 Read: 12 | [Docs for the HTML \<canvas> Element & Chart.js](https://will-ing.github.io/reading-notes/class-12)
 Read: 13 | [Local Storage](https://will-ing.github.io/reading-notes/class-13)
-Read: 14 | [Local Storage](https://will-ing.github.io/reading-notes/class-14)
+Read: 14 | [css Transforms, Transition, and Animations](https://will-ing.github.io/reading-notes/class-14)
 Read: 15 | [What Google Learned About Teams](https://will-ing.github.io/reading-notes/class-15)
 
