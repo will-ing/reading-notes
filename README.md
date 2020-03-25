@@ -1,8 +1,8 @@
 # Code 201 reading notes
 
-**These are the notes for 201**
-
 ## Daily reading assignnment table of contents
+
+# 201 Notes
 
 number| reading assignment
 ---- | ----
@@ -22,3 +22,7 @@ Read: 13 | [Local Storage](https://will-ing.github.io/reading-notes/class-13)
 Read: 14 | [css Transforms, Transition, and Animations](https://will-ing.github.io/reading-notes/class-14)
 Read: 15 | [What Google Learned About Teams](https://will-ing.github.io/reading-notes/class-15)
 
+# 301 Notes
+number| reading assignment
+---- | ----
+Read: 01 | [SMACSS and Responsive Web Design](https://will-ing.github.io/reading-notes/301-notes/read-01)
