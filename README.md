@@ -23,6 +23,8 @@ Read: 14 | [css Transforms, Transition, and Animations](https://will-ing.github.
 Read: 15 | [What Google Learned About Teams](https://will-ing.github.io/reading-notes/class-15)
 
 # 301 Notes
+
 number| reading assignment
 ---- | ----
 Read: 01 | [SMACSS and Responsive Web Design](https://will-ing.github.io/reading-notes/301-notes/read-01)
+Read: 02 | [jQuery, Events, and the DOM](https://will-ing.github.io/reading-notes/301-notes/read-02)
