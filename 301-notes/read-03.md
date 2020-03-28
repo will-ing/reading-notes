@@ -61,4 +61,4 @@ align-content | This aligns a flex container's lines within when there is extra 
 
 ```
 
-![Flex Froggy](images/flex_froggy.png)
+![Flex Froggy](images/flex-froggy.png)
