@@ -29,3 +29,4 @@ number| reading assignment
 Read: 01 | [SMACSS and Responsive Web Design](https://will-ing.github.io/reading-notes/301-notes/read-01)
 Read: 02 | [jQuery, Events, and the DOM](https://will-ing.github.io/reading-notes/301-notes/read-02)
 Read: 03 | [ Flexbox and Templating](https://will-ing.github.io/reading-notes/301-notes/read-03)
+Read: 04 | [Responsive Web Design and Regular Expressions](https://will-ing.github.io/reading-notes/301-notes/read-04)

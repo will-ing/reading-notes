@@ -44,9 +44,6 @@ align-content | This aligns a flex container's lines within when there is extra 
   align-items: stretch | flex-start | flex-end | center | baseline | first baseline | last baseline | start | end | self-start | self-end + ... safe | unsafe;
   align-content: flex-start | flex-end | center | space-between | space-around | space-evenly | stretch | start | end | baseline | first baseline | last baseline + ... safe | unsafe;
 
-
-
-
 }
 
 .item {
@@ -62,3 +59,5 @@ align-content | This aligns a flex container's lines within when there is extra 
 ```
 
 ![Flex Froggy](images/flex-froggy.png)
+
+[Main Page](https://will-ing.github.io/reading-notes301/)
