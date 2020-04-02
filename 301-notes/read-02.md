@@ -164,4 +164,4 @@ Create attributes or access update their content.
 
 `.on()` method is used to handle all events
 
-[Main Page](https://will-ing.github.io/reading-notes301/)
+[Main Page](https://will-ing.github.io/reading-notes)

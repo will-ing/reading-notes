@@ -143,4 +143,4 @@ Theme rules | are similar to state rules in that they describe how modules or la
 
  sudo service postgresql start
 
-[Main Page](https://will-ing.github.io/reading-notes301/)
+[Main Page](https://will-ing.github.io/reading-notes)

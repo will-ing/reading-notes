@@ -60,4 +60,4 @@ align-content | This aligns a flex container's lines within when there is extra 
 
 ![Flex Froggy](images/flex-froggy.png)
 
-[Main Page](https://will-ing.github.io/reading-notes301/)
+[Main Page](https://will-ing.github.io/reading-notes)

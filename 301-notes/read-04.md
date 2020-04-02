@@ -13,6 +13,7 @@
 
 ### Parent Properties
 
+
 Name | Description
 ---- | ----
 grid | generates a block-level grid
@@ -64,9 +65,11 @@ grid-auto-flow | f you have grid items that you don’t explicitly place on the 
 }
 
 ```
->float, display: inline-block, display: table-cell, vertical-align and column-* properties have no effect on a grid item.
+
+>`float`, `display: inline-block`, `display: table-cell`, `vertical-align and column-`* properties have no effect on a grid item.
 
 ### Child properties
+
 
 Name | Description
 ---- | ----
@@ -98,4 +101,4 @@ grid-area | Gives an item a name so that it can be referenced by a template crea
 ```
 
 
-[Main Page](https://will-ing.github.io/reading-notes301/)
+[Main Page](https://will-ing.github.io/reading-notes)
