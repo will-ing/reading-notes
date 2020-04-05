@@ -9,7 +9,9 @@
 >node.js - is an open source, cross-platform runtime environment, which allows you to build server-side and networking applications.
 
 1. Create a JS file!
+
 ```js
+
 var http = require("http");
 
 
@@ -27,6 +29,7 @@ http.createServer(function(request, response) {
 
 
 ## [Demo Code from lecture](https://github.com/codefellows/seattle-301n17/blob/master/class-05/demo/city-explorer-lite/app.js)
+
 ```js
 'use strict';
 
