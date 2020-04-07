@@ -31,3 +31,4 @@ Read: 02 | [jQuery, Events, and the DOM](https://will-ing.github.io/reading-note
 Read: 03 | [ Flexbox and Templating](https://will-ing.github.io/reading-notes/301-notes/read-03)
 Read: 04 | [Responsive Web Design and Regular Expressions](https://will-ing.github.io/reading-notes/301-notes/read-04)
 Read: 05 | [Heroku Deployment](https://will-ing.github.io/reading-notes/301-notes/read-05)
+Read: 06 | [Node.js, Express, APIs](https://will-ing.github.io/reading-notes/301-notes/read-06)
