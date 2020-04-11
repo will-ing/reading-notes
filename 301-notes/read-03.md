@@ -11,6 +11,48 @@
 $ npm install mustache --save
 ```
 
+### Template
+
+```html
+<html>
+  <body onload="renderHello()">
+    <div id="target">Loading...</div>
+    <script id="template" type="x-tmpl-mustache">
+      Hello {{ name }}!
+    </script>
+
+    <script src="https://unpkg.com/mustache@latest"></script>
+    <script src="render.js"></script>
+  </body>
+</html>
+```
+
+### Data -> Json file
+
+```json
+{
+  "name": {
+    "name": "Michael",
+    "last": "Jackson"
+  },
+  "age": "RIP"
+}
+```
+
+### Render
+
+```js
+function renderHello() {
+  fetch('template.mustache')
+    .then((response) => response.text())
+    .then((template) => {
+      var rendered = Mustache.render(template, { name: 'Luke' });
+      document.getElementById('target').innerHTML = rendered;    
+    });
+}
+```
+
+
 ### [mustach.js in github](https://github.com/janl/mustache.js)
 
 

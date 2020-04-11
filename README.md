@@ -32,3 +32,4 @@ Read: 03 | [ Flexbox and Templating](https://will-ing.github.io/reading-notes/30
 Read: 04 | [Responsive Web Design and Regular Expressions](https://will-ing.github.io/reading-notes/301-notes/read-04)
 Read: 05 | [Heroku Deployment](https://will-ing.github.io/reading-notes/301-notes/read-05)
 Read: 06 | [Node.js, Express, APIs](https://will-ing.github.io/reading-notes/301-notes/read-06)
+Read: 06 | [APIs continued](https://will-ing.github.io/reading-notes/301-notes/read-07)

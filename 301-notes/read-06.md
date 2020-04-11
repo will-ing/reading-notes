@@ -70,4 +70,28 @@ name | definition
 ---- | ----
 Routes | Where you’ll put your router files. The generator creates two files, index.js and users.js, which serve as examples of how to separate out your application’s route configuration.
 Views | The views folder is where you have the files used by your templating engine. The generator will configure Express to look in here for a matching view when you call the render method.
-App.js | It sets up your Express application and glues all of the different parts together. Let’s walk through what it does. 
+App.js | It sets up your Express application and glues all of the different parts together. Let’s walk through what  it does. 
+
+server.js needs 3 parts
+
+```js
+// new route
+app.get(route, function)
+
+// function that runs fromt the route
+function doStuff(req, res){
+  res.json(foo) // returns json file
+  res.send(text) // sends text
+}
+
+// constructor so you know what to return from the server
+function Construct(obj, data){ 
+  this.potato = obj
+  this.carrot = data.whatIWant
+}
+
+// turns on server listens
+app.listen(PORT, () =>{
+  console.log(`Listening on ${PORT}`)
+})
+```
