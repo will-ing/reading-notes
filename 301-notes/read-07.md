@@ -1,5 +1,64 @@
 # API's continued
 
+Promise take 2 call backs (resolve , reject)
+
+do something that will take awhile
+
+```js
+// 2 Outcomes ...
+// Success or Failure
+
+let longTask = (status) => {
+  return new Promise( (resolve,reject) => {
+    let timer = Math.floor(Math.random() * 1000);
+    setTimeout( () => {
+      if(status) { resolve(`Good ${status} / ${timer}`)}
+      else { reject('Bad'); }
+    }, timer)
+  });
+}
+
+console.log('1');
+
+// Promise Call 
+// Always have the same "signature"
+longTask('John')
+  .then( result => {
+    console.log('Result', result)
+  })
+  .catch( error => { 
+    console.error(error) 
+  });
+
+
+// longTask('Task 1').then( result => console.log(result) ).catch( e => console.error(e));
+// longTask('Task 2').then( result => console.log(result) ).catch( e => console.error(e));
+// longTask().then( result => console.log(result) ).catch( e => console.error(e));
+// longTask('Task 4').then( result => console.log(result) ).catch( e => console.error(e));
+// longTask('Task 5').then( result => console.log(result) ).catch( e => console.error(e));
+// longTask('Task 6').then( result => console.log(result) ).catch( e => console.error(e));
+
+longTask('Task A')
+  .then( results => {
+    console.log(results);
+    return longTask('Task B');
+  })
+  .then( results => {
+    console.log(results);
+    return longTask('Task C'); // "thenable"
+  })
+  .then( results => {
+    console.log(results);
+  })
+  
+
+
+console.log('2');
+```
+
+
+
+
 # [REST APIs](https://restfulapi.net/)
 
 >REST stands for `REpresentational State Transfer`
