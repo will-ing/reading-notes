@@ -34,3 +34,4 @@ Read: 05 | [Heroku Deployment](https://will-ing.github.io/reading-notes/301-note
 Read: 06 | [Node.js, Express, APIs](https://will-ing.github.io/reading-notes/301-notes/read-06)
 Read: 07 | [APIs continued](https://will-ing.github.io/reading-notes/301-notes/read-07)
 Read: 08 | [SQL](https://will-ing.github.io/reading-notes/301-notes/read-08)
+Read: 09 | [Refactoring](https://will-ing.github.io/reading-notes/301-notes/read-09)
