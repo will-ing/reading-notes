@@ -35,3 +35,4 @@ Read: 06 | [Node.js, Express, APIs](https://will-ing.github.io/reading-notes/301
 Read: 07 | [APIs continued](https://will-ing.github.io/reading-notes/301-notes/read-07)
 Read: 08 | [SQL](https://will-ing.github.io/reading-notes/301-notes/read-08)
 Read: 09 | [Refactoring](https://will-ing.github.io/reading-notes/301-notes/read-09)
+Read: 10 | [The Call Stack](https://will-ing.github.io/reading-notes/301-notes/read-10)
