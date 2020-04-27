@@ -36,3 +36,4 @@ Read: 07 | [APIs continued](https://will-ing.github.io/reading-notes/301-notes/r
 Read: 08 | [SQL](https://will-ing.github.io/reading-notes/301-notes/read-08)
 Read: 09 | [Refactoring](https://will-ing.github.io/reading-notes/301-notes/read-09)
 Read: 10 | [The Call Stack](https://will-ing.github.io/reading-notes/301-notes/read-10)
+Read: 11 | [EJS](https://will-ing.github.io/reading-notes/301-notes/read-11)
