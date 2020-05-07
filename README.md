@@ -39,3 +39,4 @@ Read: 10 | [The Call Stack](https://will-ing.github.io/reading-notes/301-notes/r
 Read: 11 | [EJS](https://will-ing.github.io/reading-notes/301-notes/read-11)
 Read: 12 | [Components](https://will-ing.github.io/reading-notes/301-notes/read-12)
 Read: 13 | [Update/Delete](https://will-ing.github.io/reading-notes/301-notes/read-13)
+Read: 14 | [Normalization](https://will-ing.github.io/reading-notes/301-notes/read-14)
