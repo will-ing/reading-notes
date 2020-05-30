@@ -41,3 +41,9 @@ Read: 12 | [Components](https://will-ing.github.io/reading-notes/301-notes/read-
 Read: 13 | [Update/Delete](https://will-ing.github.io/reading-notes/301-notes/read-13)
 Read: 14 | [Normalization](https://will-ing.github.io/reading-notes/301-notes/read-14)
 Read: 15 | [Diversity and Inclusion](https://will-ing.github.io/reading-notes/301-notes/read-15)
+
+# 401 Notes 
+
+number| reading assignment
+---- | ----
+Read: 01 | [Pain and suffering; Big O](https://will-ing.github.io/reading-notes/401-notes/class-01)
