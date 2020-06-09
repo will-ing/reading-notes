@@ -49,3 +49,6 @@ you’ll also want to use the second positional argument, `mode`.
 using the `else` statement, you can instruct a program to execute a certain block of code only in the absence of exceptions.
 
 ![img](images/rules.png)
+
+
+[Main Page](https://will-ing.github.io/reading-notes)
