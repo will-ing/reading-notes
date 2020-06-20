@@ -11,7 +11,11 @@ LEGB rule
 
 >  Python scopes are implemented as dictionaries that map names to objects
 
+> Names that you define in the enclosing Python scope are commonly known as nonlocal names
 
+From the moment you start a Python program, you’re in the global Python scope
+
+- You can’t modify names in the enclosing scope from inside a nested function unless you declare them as nonlocal in the nested function
 
 
 [Main Page](https://will-ing.github.io/reading-notes)
