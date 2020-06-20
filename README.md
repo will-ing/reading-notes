@@ -52,7 +52,7 @@ Read: 03 | [Read, write and exceptions](https://will-ing.github.io/reading-notes
 Read: 04 | [Classes and Objects](https://will-ing.github.io/reading-notes/401-notes/class-04)
 Read: 05 | [Linked lists](https://will-ing.github.io/reading-notes/401-notes/class-05)
 Read: 06 | [Random Module and Risk Analysis](https://will-ing.github.io/reading-notes/401-notes/class-06)
-Read: 07 | [](https://will-ing.github.io/reading-notes/401-notes/class-07)
+Read: 07 | [Scope](https://will-ing.github.io/reading-notes/401-notes/class-07)
 Read: 08 | [](https://will-ing.github.io/reading-notes/401-notes/class-08)
 Read: 09 | [](https://will-ing.github.io/reading-notes/401-notes/class-09)
 Read: 10 | [](https://will-ing.github.io/reading-notes/401-notes/class-10)
