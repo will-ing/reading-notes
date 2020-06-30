@@ -86,7 +86,7 @@ ALGORITHM enqueue(value)
 
 - When you remove an item from a queue, you use the `dequeue` action.
 
-```py
+```
 ALGORITHM dequeue()
 // INPUT <-- none
 // OUTPUT <-- value of the removed Node
