@@ -55,7 +55,7 @@
 | Read: 07 | [Scope](https://will-ing.github.io/reading-notes/401-notes/class-07)                                       |
 | Read: 08 | [List Comprehension](https://will-ing.github.io/reading-notes/401-notes/class-08)                          |
 | Read: 09 | [Probability](https://will-ing.github.io/reading-notes/401-notes/class-09)                                 |
-| Read: 10 | [](https://will-ing.github.io/reading-notes/401-notes/class-10)                                            |
+| Read: 10 | [Stacks and Queues](https://will-ing.github.io/reading-notes/401-notes/class-10)                           |
 | Read: 11 | [Jupyter & Numpy](https://will-ing.github.io/reading-notes/401-notes/class-11)                             |
 | Read: 12 | [](https://will-ing.github.io/reading-notes/401-notes/class-12)                                            |
 | Read: 13 | [](https://will-ing.github.io/reading-notes/401-notes/class-13)                                            |
