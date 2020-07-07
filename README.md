@@ -57,7 +57,7 @@
 | Read: 09 | [Probability](https://will-ing.github.io/reading-notes/401-notes/class-09)                                 |
 | Read: 10 | [Stacks and Queues](https://will-ing.github.io/reading-notes/401-notes/class-10)                           |
 | Read: 11 | [Jupyter & Numpy](https://will-ing.github.io/reading-notes/401-notes/class-11)                             |
-| Read: 12 | [](https://will-ing.github.io/reading-notes/401-notes/class-12)                                            |
+| Read: 12 | [Pandas](https://will-ing.github.io/reading-notes/401-notes/class-12)                                      |
 | Read: 13 | [](https://will-ing.github.io/reading-notes/401-notes/class-13)                                            |
 | Read: 14 | [](https://will-ing.github.io/reading-notes/401-notes/class-14)                                            |
 | Read: 15 | [](https://will-ing.github.io/reading-notes/401-notes/class-15)                                            |
