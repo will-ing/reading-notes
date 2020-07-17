@@ -1,8 +1,8 @@
 # Code 201 reading notes
 
-## Daily reading assignnment table of contents
+## Daily reading assignment table of contents
 
-# 201 Notes
+## 201 Notes
 
 | number   | reading assignment                                                                                                  |
 | -------- | ------------------------------------------------------------------------------------------------------------------- |
@@ -22,7 +22,7 @@
 | Read: 14 | [css Transforms, Transition, and Animations](https://will-ing.github.io/reading-notes/class-14)                     |
 | Read: 15 | [What Google Learned About Teams](https://will-ing.github.io/reading-notes/class-15)                                |
 
-# 301 Notes
+## 301 Notes
 
 | number   | reading assignment                                                                                          |
 | -------- | ----------------------------------------------------------------------------------------------------------- |
@@ -42,7 +42,7 @@
 | Read: 14 | [Normalization](https://will-ing.github.io/reading-notes/301-notes/read-14)                                 |
 | Read: 15 | [Diversity and Inclusion](https://will-ing.github.io/reading-notes/301-notes/read-15)                       |
 
-# 401 Notes 
+## 401 Notes
 
 | number   | reading assignment                                                                                         |
 | -------- | ---------------------------------------------------------------------------------------------------------- |
@@ -61,3 +61,7 @@
 | Read: 13 | [Linear Regression](https://will-ing.github.io/reading-notes/401-notes/class-13)                           |
 | Read: 14 | [Matplotlib](https://will-ing.github.io/reading-notes/401-notes/class-14)                                  |
 | Read: 15 | [](https://will-ing.github.io/reading-notes/401-notes/class-15)                                            |
+| Read: 16 | [Machine Learning intro](https://will-ing.github.io/reading-notes/401-notes/class-16)                      |
+| Read: 17 | [](https://will-ing.github.io/reading-notes/401-notes/class-17)                                            |
+| Read: 18 | [](https://will-ing.github.io/reading-notes/401-notes/class-18)                                            |
+| Read: 19 | [](https://will-ing.github.io/reading-notes/401-notes/class-19)                                            |
