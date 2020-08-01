@@ -64,4 +64,4 @@
 | Read: 16 | [Machine Learning intro](https://will-ing.github.io/reading-notes/401-notes/class-16)                      |
 | Read: 17 | [Web Scraping](https://will-ing.github.io/reading-notes/401-notes/class-17)                                |
 | Read: 18 | [Cryptography](https://will-ing.github.io/reading-notes/401-notes/class-18)                                |
-| Read: 19 | [](https://will-ing.github.io/reading-notes/401-notes/class-19)                                            |
+| Read: 19 | [Automation](https://will-ing.github.io/reading-notes/401-notes/class-19)                                  |
