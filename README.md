@@ -67,7 +67,7 @@
 | Read: 19 | [Automation](https://will-ing.github.io/reading-notes/401-notes/class-19)                                  |
 | Read: 26 | [Django](https://will-ing.github.io/reading-notes/401-notes/class-26)                                      |
 | Read: 27 | [Django models](https://will-ing.github.io/reading-notes/401-notes/class-27)                               |
-| Read: 28 | [](https://will-ing.github.io/reading-notes/401-notes/class-28)                                            |
+| Read: 28 | [Django Forms](https://will-ing.github.io/reading-notes/401-notes/class-28)                                |
 | Read: 29 | [](https://will-ing.github.io/reading-notes/401-notes/class-29)                                            |
 | Read: 30 | [](https://will-ing.github.io/reading-notes/401-notes/class-30)                                            |
 | Read: 31 | [](https://will-ing.github.io/reading-notes/401-notes/class-31)                                            |
