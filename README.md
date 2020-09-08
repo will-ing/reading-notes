@@ -68,6 +68,9 @@
 | Read: 26 | [Django](https://will-ing.github.io/reading-notes/401-notes/class-26)                                      |
 | Read: 27 | [Django models](https://will-ing.github.io/reading-notes/401-notes/class-27)                               |
 | Read: 28 | [Django Forms](https://will-ing.github.io/reading-notes/401-notes/class-28)                                |
-| Read: 29 | [](https://will-ing.github.io/reading-notes/401-notes/class-29)                                            |
+| Read: 29 | [Django setup](https://will-ing.github.io/reading-notes/401-notes/class-29)                                |
 | Read: 30 | [Hash Tables](https://will-ing.github.io/reading-notes/401-notes/class-30)                                 |
-| Read: 31 | [](https://will-ing.github.io/reading-notes/401-notes/class-31)                                            |
+| Read: 31 | [Docker/Django REST](https://will-ing.github.io/reading-notes/401-notes/class-31)                          |
+| Read: 32 | [](https://will-ing.github.io/reading-notes/401-notes/class-32)                                            |
+| Read: 33 | [](https://will-ing.github.io/reading-notes/401-notes/class-33)                                            |
+| Read: 34 | [](https://will-ing.github.io/reading-notes/401-notes/class-34)                                            |
