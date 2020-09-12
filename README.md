@@ -71,6 +71,6 @@
 | Read: 29 | [Django setup](https://will-ing.github.io/reading-notes/401-notes/class-29)                                |
 | Read: 30 | [Hash Tables](https://will-ing.github.io/reading-notes/401-notes/class-30)                                 |
 | Read: 31 | [Docker/Django REST](https://will-ing.github.io/reading-notes/401-notes/class-31)                          |
-| Read: 32 | [](https://will-ing.github.io/reading-notes/401-notes/class-32)                                            |
+| Read: 32 | [DRF Permissions](https://will-ing.github.io/reading-notes/401-notes/class-32)                             |
 | Read: 33 | [](https://will-ing.github.io/reading-notes/401-notes/class-33)                                            |
 | Read: 34 | [](https://will-ing.github.io/reading-notes/401-notes/class-34)                                            |
