@@ -2,7 +2,7 @@
 
 > Permissions in REST framework are always defined as a list of permission classes.
 
-- The default permission policy may be set globally, using the DEFAULT_PERMISSION_CLASSES setting. 
+- The default permission policy may be set globally, using the DEFAULT_PERMISSION_CLASSES setting.
 - when you set new permission classes through class attribute or decorators you're telling the view to ignore the default list set over the settings.py file.
 - The AllowAny permission class will allow unrestricted access, regardless of if the request was authenticated or unauthenticated.
 - The IsAdminUser permission class will deny permission to any user, unless user.is_staff
