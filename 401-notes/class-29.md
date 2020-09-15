@@ -80,4 +80,3 @@ class blog(models.Model):
 18. python manage.py makemigrations
 19. python manage.py migrate
 20. Run makemigrations and migrate everytime you change your models
-21. use `{% extends 'page.html'%}` to pull in the base html
