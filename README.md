@@ -73,4 +73,4 @@
 | Read: 31 | [Docker/Django REST](https://will-ing.github.io/reading-notes/401-notes/class-31)                          |
 | Read: 32 | [DRF Permissions](https://will-ing.github.io/reading-notes/401-notes/class-32)                             |
 | Read: 33 | [Authentication & Production Server](https://will-ing.github.io/reading-notes/401-notes/class-33)          |
-| Read: 34 | [](https://will-ing.github.io/reading-notes/401-notes/class-34)                                            |
+| Read: 34 | [SSH (Secure Shell)](https://will-ing.github.io/reading-notes/401-notes/class-34)                          |
