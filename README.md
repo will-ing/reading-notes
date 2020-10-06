@@ -78,3 +78,4 @@
 | Read: 36 | [SSH (Graphs)](https://will-ing.github.io/reading-notes/401-notes/class-36)                                |
 | Read: 37 | [React](https://will-ing.github.io/reading-notes/401-notes/class-37)                                       |
 | Read: 38 | [React 2](https://will-ing.github.io/reading-notes/401-notes/class-38)                                     |
+| Read: 39 | [React 3](https://will-ing.github.io/reading-notes/401-notes/class-39)                                     |
